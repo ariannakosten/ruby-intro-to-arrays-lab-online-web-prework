@@ -10,6 +10,6 @@ def array_with_two_elements
   array= ["dog", "pet"]
 end 
 
-def first_element(array)
+def first_element(array, element)
   array[1]
-end 
+end
